@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "A task to build a HTML page that contains an application(Resume). CSS is involved",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onengiye/resume.git"
+  },
+  "author": "Onengiye Xperator",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onengiye/resume/issues"
+  },
+  "homepage": "https://github.com/Onengiye/resume#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
