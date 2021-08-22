@@ -4,6 +4,7 @@
   "description": "A task to build a HTML page that contains an application(Resume). CSS is involved",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/Onengiye/resume#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "normalize.css": "^8.0.1"
   }
 }
