@@ -101,11 +101,11 @@
         color: #f9f9f9;
         display: flex;
         flex-direction: column;
-        align-items: center;
+        align-content: center;
     }
 
     #home-container {
-        padding-top: 8em;
+        padding-top: 14em;
         width: 100%;
         display: flex;
         flex-direction: column-reverse;
@@ -160,7 +160,7 @@
     }
 
     #about-container {
-        padding-top: 8em;
+        padding-top: 7em;
         width: 100%;
         text-align: center;
 
